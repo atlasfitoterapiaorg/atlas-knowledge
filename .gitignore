@@ -31,3 +31,5 @@ Desktop.ini
 *.tmp
 *.temp
 *.log
+# Visual Studio
+.vs/
