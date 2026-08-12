@@ -1,3 +1,62 @@
-@use "./variables.scss" as *;
+/* Atlas de Fitoterapia — identidad visual */
 
-// put your custom CSS here!
+:root {
+  --atlas-primary: #1F5B46;
+  --atlas-secondary: #789B7C;
+}
+
+:root[saved-theme="dark"] {
+  --atlas-primary: #78B99A;
+  --atlas-secondary: #A5C58D;
+}
+
+/* Título del sitio */
+.page-title a {
+  color: var(--atlas-primary);
+}
+
+/* Enlaces generales */
+a {
+  color: var(--atlas-primary);
+}
+
+a:hover {
+  color: var(--atlas-secondary);
+}
+
+/* Explorer */
+.explorer .folder-title,
+.explorer .folder-container > div > a,
+.explorer a {
+  color: var(--darkgray);
+}
+
+.explorer a:hover {
+  color: var(--atlas-primary);
+}
+
+/* Breadcrumbs */
+.breadcrumb-container a {
+  color: var(--atlas-primary);
+}
+
+/* Tabla de contenidos */
+.toc a {
+  color: var(--darkgray);
+}
+
+.toc a:hover,
+.toc a.active {
+  color: var(--atlas-primary);
+}
+
+/* Encabezados */
+article h1,
+article h2 {
+  color: var(--dark);
+}
+
+/* Selección de texto */
+::selection {
+  background: rgba(120, 155, 124, 0.22);
+}
