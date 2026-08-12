@@ -37,10 +37,15 @@ El Atlas documenta información relacionada con:
 
 ## Navegación
 
-La información se organiza mediante dominios de conocimiento y relaciones entre entidades.
+El conocimiento del Atlas se organiza mediante las siguientes áreas:
 
-La estructura evolucionará conforme se incorporen nuevos dominios y mecanismos de búsqueda.
-
+1. [[dominios/index|Dominios]]
+2. [[especies/index|Especies]]
+3. [[principios-activos/index|Principios Activos]]
+4. [[preparados/index|Preparados]]
+5. [[enfermedades/index|Enfermedades]]
+6. [[farmacopeas/index|Farmacopeas]]
+7. [[referencias/index|Referencias]]
 ---
 
 ## Estado del proyecto
