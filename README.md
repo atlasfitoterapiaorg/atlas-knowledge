@@ -125,3 +125,8 @@ Gobernanza + arquitectura + estándares + plantillas
 atlas-knowledge
 Conocimiento + edición + Quartz + publicación
 ```
+## Estado de validación
+
+El flujo local de edición y compilación ha sido validado mediante Quartz 5.
+
+La validación integral del pipeline de publicación se realiza durante el Sprint 3.7 — Validación Integral y Cierre.
