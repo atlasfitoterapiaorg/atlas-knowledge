@@ -1,7 +1,7 @@
 ﻿---
-title: [Prueba de fallo
+title: Prueba de fallo corregida
 ---
 
 # Prueba controlada
 
-Este archivo existe únicamente para validar que Quartz bloquee una publicación con contenido inválido.
+Este archivo existe únicamente para validar la recuperación del pipeline después de corregir un error de compilación.
