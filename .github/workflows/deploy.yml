@@ -1,9 +1,14 @@
 name: Deploy Quartz site to GitHub Pages
 
 on:
+  pull_request:
+    branches:
+      - main
+
   push:
     branches:
       - main
+
   workflow_dispatch:
 
 permissions:
@@ -56,11 +61,13 @@ jobs:
         run: npx quartz build
 
       - name: Upload GitHub Pages artifact
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
   deploy:
+    if: github.event_name != 'pull_request'
     needs: build
     environment:
       name: github-pages
