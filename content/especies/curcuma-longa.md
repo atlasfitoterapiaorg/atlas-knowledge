@@ -1,4 +1,4 @@
-﻿---
+---
 id: TAX-SP-000001
 title: Curcuma longa L.
 type: taxon

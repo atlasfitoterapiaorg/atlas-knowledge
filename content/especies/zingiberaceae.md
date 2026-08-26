@@ -1,4 +1,4 @@
-﻿---
+---
 id: TAX-FAM-000001
 title: Zingiberaceae
 type: taxon

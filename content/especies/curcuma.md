@@ -1,4 +1,4 @@
-﻿---
+---
 id: TAX-GEN-000001
 title: Curcuma
 type: taxon
