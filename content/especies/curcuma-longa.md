@@ -9,6 +9,8 @@ governance_status: proposed
 relationships:
   - type: pertenece_a
     target: TAX-GEN-000001
+  - type: posee_parte
+    target: PVE-000001
 external_ids: []
 provenance: []
 ---
@@ -24,6 +26,10 @@ provenance: []
 ## Clasificación
 
 Pertenece al género [[curcuma|Curcuma]].
+
+## Partes vegetales
+
+- [[../partes-vegetales/rizoma|Rizoma]]
 
 ## Identificadores externos
 
