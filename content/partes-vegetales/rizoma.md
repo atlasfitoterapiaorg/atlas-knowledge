@@ -12,18 +12,12 @@ provenance: []
 
 ## Identidad
 
-- **ID Atlas:** PVE-000001
-- **Nombre:** Rizoma
-- **Tipo:** Parte vegetal
+Rizoma es una parte vegetal genérica reutilizable en el Atlas. Su vinculación con un taxón o una droga vegetal no permite inferir por sí sola composición química ni actividad biológica.
 
-## Descripción
+## Taxones documentados
 
-Estructura vegetal genérica reutilizable dentro del Atlas.
+- [[../taxones/curcuma-longa|Curcuma longa L.]]
 
-## Relaciones
+## Drogas vegetales relacionadas
 
-Las relaciones con taxones específicos se registran desde las entidades correspondientes.
-
-## Procedencia
-
-Pendiente de incorporación.
+- [[../drogas-vegetales/rizoma-molido-de-curcuma|Rizoma molido de cúrcuma]]

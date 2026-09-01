@@ -14,7 +14,7 @@ Su propósito es integrar información basada en evidencia mediante un modelo do
 
 ## Misión
 
-Construir un repositorio estructurado de conocimiento fitoterapéutico que facilite la consulta, el análisis y la actualización continua de evidencia científica relacionada con plantas medicinales, principios activos, preparados fitoterapéuticos y sus aplicaciones.
+Construir un repositorio estructurado de conocimiento fitoterapéutico que facilite la consulta, el análisis y la actualización continua de evidencia científica relacionada con taxones, compuestos químicos, preparados vegetales y sus contextos de estudio.
 
 ---
 
@@ -22,30 +22,23 @@ Construir un repositorio estructurado de conocimiento fitoterapéutico que facil
 
 El Atlas documenta información relacionada con:
 
-- Especies vegetales
-- Principios activos
-- Preparados fitoterapéuticos
+- Taxones vegetales
+- Partes y drogas vegetales
+- Preparados vegetales
+- Compuestos y clases químicas
 - Farmacopeas
-- Evidencia científica
-- Ensayos clínicos
+- Estudios y publicaciones
+- Actividades biológicas
 - Seguridad
 - Toxicología
 - Interacciones
-- Enfermedades
+- Condiciones de salud, cuando existan entidades documentadas
 
 ---
 
 ## Navegación
 
-El conocimiento del Atlas se organiza mediante las siguientes áreas:
-
-1. [[dominios/index|Dominios]]
-2. [[especies/index|Especies]]
-3. [[principios-activos/index|Principios Activos]]
-4. [[preparados/index|Preparados]]
-5. [[enfermedades/index|Enfermedades]]
-6. [[farmacopeas/index|Farmacopeas]]
-7. [[referencias/index|Referencias]]
+El piloto permite recorrer conocimiento trazable desde [[taxones/zingiberaceae|Zingiberaceae]] hasta [[taxones/curcuma|Curcuma]] y [[taxones/curcuma-longa|Curcuma longa L.]]. Desde el taxón se puede continuar hacia el [[partes-vegetales/rizoma|rizoma]], la [[drogas-vegetales/rizoma-molido-de-curcuma|droga vegetal]], el [[preparados-vegetales/extracto-comercial-de-curcuma-rico-en-curcuminoides|preparado estudiado]], la [[compuestos-quimicos/curcumina|curcumina]], los [[clases-quimicas/curcuminoides|curcuminoides]], la [[actividades-biologicas/inhibicion-de-la-via-nf-kb-in-vitro|actividad in vitro]], el [[estudios/edwards-2020-inhibicion-nf-kb-curcuminoides|estudio]] y su [[publicaciones/edwards-et-al-2020-mechanistic-differences-nf-kb|publicación]].
 ---
 
 ## Estado del proyecto

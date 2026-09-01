@@ -14,18 +14,8 @@ provenance: []
 
 ## Identidad
 
-- **ID Atlas:** TAX-FAM-000001
-- **Nombre científico:** Zingiberaceae
-- **Nivel taxonómico:** Familia
+Zingiberaceae es una familia taxonómica que, en el conocimiento actualmente incorporado al Atlas, contiene al género [[curcuma|Curcuma]].
 
 ## Taxones documentados
 
 - [[curcuma|Curcuma]]
-
-## Identificadores externos
-
-Pendiente de incorporación y validación.
-
-## Procedencia
-
-Pendiente de incorporación.

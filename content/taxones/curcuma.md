@@ -16,22 +16,12 @@ provenance: []
 
 ## Identidad
 
-- **ID Atlas:** TAX-GEN-000001
-- **Nombre científico:** *Curcuma*
-- **Nivel taxonómico:** Género
+*Curcuma* es un género de la familia [[zingiberaceae|Zingiberaceae]]. El piloto documenta dentro de este género a [[curcuma-longa|Curcuma longa L.]].
 
 ## Clasificación
 
-Pertenece a la familia [[zingiberaceae|Zingiberaceae]].
+El género pertenece a la familia [[zingiberaceae|Zingiberaceae]].
 
 ## Taxones documentados
 
 - [[curcuma-longa|Curcuma longa L.]]
-
-## Identificadores externos
-
-Pendiente de incorporación y validación.
-
-## Procedencia
-
-Pendiente de incorporación.
