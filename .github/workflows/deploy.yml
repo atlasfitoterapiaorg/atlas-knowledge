@@ -3,6 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   pull_request:
     branches:
+      - develop
       - main
 
   push:
@@ -61,13 +62,13 @@ jobs:
         run: node ./quartz/bootstrap-cli.mjs build
 
       - name: Upload GitHub Pages artifact
-        if: github.event_name != 'pull_request'
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
   deploy:
-    if: github.event_name != 'pull_request'
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     needs: build
     environment:
       name: github-pages
