@@ -1,4 +1,4 @@
-﻿{
+{
     "collapse-filter":  true,
     "search":  "-path:templates -path:node_modules -path:public -path:quartz -file:index -file:AGENTS -file:README",
     "showTags":  false,
